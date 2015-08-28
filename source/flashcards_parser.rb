@@ -1,17 +1,4 @@
-require 'flashcard_samples'
-require 'flashcards_card'
-
-# module TextParser
-#   def self.get_cards
-#     file = 'flashcard_samples.txt'
-#     File.readlines(file).each do |line|
-#       puts line
-#     end
-#   end
-# end
-
-# cards = TextParser.get_cards('flashcard_samples.txt')
-# flashcards = Card.new(cards)
+# require 'flashcards_card'
 
 module CardParser
   extend self

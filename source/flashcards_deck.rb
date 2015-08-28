@@ -1,5 +1,5 @@
-require 'flashcards_card'
-require 'flashcard_samples'
+# require 'flashcards_card'
+# require 'flashcard_samples'
 
 class Deck
 
